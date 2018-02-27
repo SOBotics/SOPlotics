@@ -1,4 +1,4 @@
-# Natty_plots
+# SOPlotics
 
 This R script collects data about the classificaton performance of Natty (or other bots) and creates some plots.
 
